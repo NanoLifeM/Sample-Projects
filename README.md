@@ -6,5 +6,5 @@ I've included GIFs or screenshots for each demo to make it easier to see what it
 
 # BottomAppBar Sample
 
-[Bottom App Bar](assets/bottom_app_bar.gif)
+![Bottom App Bar](assets/bottom_app_bar.gif)
 
